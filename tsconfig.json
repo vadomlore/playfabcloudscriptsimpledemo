@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "outFile":"./build/main.js",
+        "sourceRoot": "./src/",
+        "rootDir": "./src/",
+        "sourceMap": true
+    }
+}
